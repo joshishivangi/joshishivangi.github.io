@@ -27,9 +27,9 @@ author:
   avatar: "profile.png"          # place this file in /images/
   name: "Shivangi Joshi"
   pronouns: "she/her"
-  bio: "Postdoctoral Researcher (Postdoktor) at Umeå University. I work on high-order numerical methods for PDEs: spectral/finite elements, least-squares formulations, interface problems, wave propagation & shallow-water models; C++/deal.II."
+  employer: "Department of Mathematics and Mathematical Statistics (MIT), Umeå University, Sweden"
+  bio: "Postdoctoral Researcher (Postdoktor) at the Department of Mathematics and Mathematical Statistics (MIT), Umeå University, Sweden. I work on high-order numerical methods for PDEs: spectral/finite elements, least-squares formulations, interface problems, wave propagation & shallow-water models; C++/deal.II."
   location: "Umeå, Sweden"
-  employer: "Department of Mathematics and Mathematical Statistics, Umeå University"
   uri:                          # personal homepage URL (optional)
   email: "shivangi.joshi@umu.se"
 
